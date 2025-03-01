@@ -19,7 +19,7 @@ The constitution can be modified through a formal amendment process:
 
 1. Amendments can introduce new sections/subsections or revise existing ones
 2. When a section is amended, the previous version becomes invalid
-3. A current, consolidated version of the constitution is maintained at `/docs/constitution/current.md`
+3. A current, consolidated version of the constitution is maintained at `/docs/constitution/constitution.md`
 4. The original constitution is preserved for historical reference
 
 ### Purpose
