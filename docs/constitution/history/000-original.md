@@ -8,7 +8,7 @@ This constitution establishes the fundamental principles and rules governing the
 1.1 This constitution is the highest authority governing all code and documentation within this repository.
 1.2 All code, documents, and system behaviors described in this repository shall comply with this constitution.
 1.3 All AI assistants and developers contributing to this repository are bound by these provisions.
-1.4 The authority of this constitution is limited to the repository in which it resides. Processes and decisions made outside of this repository, including deployment, external testing apparatus, and any formal process for accepting amendments, shall be the considered beyond the scope of this constitution.
+1.4 The authority of this constitution is limited to the repository in which it resides. Processes and decisions made outside of this repository, including deployment, external testing apparatus, and any formal process for accepting amendments, shall be considered beyond the scope of this constitution.
 
 ### Section 2: Interpretation
 2.1 AI assistants must interpret this constitution literally.
